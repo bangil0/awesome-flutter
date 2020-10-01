@@ -750,6 +750,9 @@ This section contains libraries that take an experimental or unorthodox approach
 
 ### 🇮🇩 Indonesia
 - Telegram [Flutter Indonesia](https://t.me/flutter_id)
+- Facebook Group [Flutter Indonesia User Group](https://www.facebook.com/groups/1738284952897937/)
+- Facebook Page [Flutter Developer Indonesia](https://www.facebook.com/flutterdev.id/)
+- Website [Flutter Indonesia](https://flutter.id/)
 
 ### 🇯🇵 Japan
 
